@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Cold and dry
 bored lol
+=======
+Help me!!!
+top
+>>>>>>> bcd1e117906513098ae586a648e98fbde1d3b78a
